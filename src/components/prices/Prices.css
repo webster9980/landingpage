@@ -1,0 +1,80 @@
+
+.plans-price{
+    /* background: url('../img/bg2.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top; */
+    padding-top: 80px;
+    min-height: 720px;
+    color: #000 !important;
+}
+
+.plans-price h2{
+    font-weight: 100;
+}
+
+.plans-price .card .card-image .card-title{
+    display: flex;
+    width: 100%;
+}
+
+.plans-price .card .card-content .collection{
+    border: none;
+}
+
+.plans-price .card .card-content .collection .collection-item{
+    border: none;
+}
+
+.plans-price .card .card-content .collection .collection-item i{
+    color: #009315;
+}
+
+.plans-price .card .card-action{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.plans-price .card{
+    min-height: 550px;
+}
+
+.plans-price .prices{
+    position: relative;
+    font-weight: 300;
+    text-align: center;
+    color: #fff;
+    padding-left: 2rem;
+}
+
+.plans-price .prices sup{
+    font-size: 1.42rem;
+    line-height: 1.6rem;
+    color: #fff;
+}
+
+.jumbotron .img-desc{
+    max-width: 150%;
+    margin-top: 35px;
+}
+
+.text-white{
+    color: #fff !important;
+}
+
+.text-black{
+    color: #676767 !important;
+}
+
+.pad-section{
+    padding: 20px 0;
+}
+
+.pad-top-section{
+    padding-top: 20px;
+}
+
+.margin-top-section{
+    margin-top: 85px;
+}

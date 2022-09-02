@@ -1,0 +1,11 @@
+
+.jumbotron{
+    background-image: url('../../assets/back.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    padding-top: 80px;
+    min-height: 720px;
+    opacity: 0.1 #000;
+    color: #fff !important;
+}
